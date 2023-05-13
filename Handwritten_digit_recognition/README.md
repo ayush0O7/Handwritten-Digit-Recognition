@@ -1,4 +1,6 @@
-Handwritten Digit recognition. 
+Handwritten Digit recognition model. 
+
+Model is created from scratch, without using any pre-built model.
 
 Model performs with an accuracy of 98.07%.(Model_2)
 
